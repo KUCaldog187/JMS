@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jms
+  config:
+    name: ${spring.application.name}
